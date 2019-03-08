@@ -1,0 +1,43 @@
+{
+  "title": "boxes",
+  "box_set": [
+    {
+      "id": 1,
+      "time": 200,
+      "startx": 100,
+      "starty": 200,
+      "width": 10,
+      "height": 20
+    },
+    {
+      "id": 2,
+      "time": 201,
+      "startx": 100,
+      "starty": 200,
+      "endx": 300,
+      "endy": 400,
+      "width": 30,
+      "height": 40
+    },
+    {
+      "id": 3,
+      "startx": 300,
+      "starty": 400,
+      "time": 202,
+      "endx": 500,
+      "endy": 600,
+      "width": 40,
+      "height": 50
+    },
+    {
+      "id": 4,
+      "time": 203,
+      "startx": 500,
+      "starty": 600,
+      "endx": 700,
+      "endy": 800,
+      "width": 50,
+      "height": 60
+    }
+  ]
+}
